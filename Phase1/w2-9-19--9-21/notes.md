@@ -1,13 +1,13 @@
 # Week [week#]
-## [month]/[day] - [month]/[day]
+## [September]/[19] - [September]/[21]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [September]/[19]
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: Google Classroom
 
 #### 📚Resources:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Learned how to make folders through the terminal
+2. How to fork, clone, and push a repo
+3. Learned the terms cd, pwd, mkdir
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. How to push a repo
+2. Making folders in the terminal
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. Pushing and cloning a repo
 
 
 ___
