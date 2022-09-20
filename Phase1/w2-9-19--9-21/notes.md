@@ -29,26 +29,26 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [September]/[20] 
 
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources: Google Classroom(Slides)
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. Learned the terms of github
+2. Showed us how to fork, clone, a repo
+3. github
 
 👁️Two things I would like to know more about:
 1. 
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. How to make a folder in the terminal
 
 ___
 
